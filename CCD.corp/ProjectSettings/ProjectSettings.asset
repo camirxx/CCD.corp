@@ -233,6 +233,7 @@ PlayerSettings:
   iOSMetalForceHardShadows: 0
   metalEditorSupport: 1
   metalAPIValidation: 1
+  metalCompileShaderBinary: 0
   iOSRenderExtraFrameOnPause: 0
   iosCopyPluginsCodeInsteadOfSymlink: 0
   appleDeveloperTeamID: 
@@ -724,7 +725,7 @@ PlayerSettings:
   cloudProjectId: 0d9a7612-c7da-4f76-92a9-602de9507f44
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: CCD.corp
   organizationId: tobi_rxx
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
